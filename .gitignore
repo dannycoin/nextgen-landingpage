@@ -9,3 +9,6 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+
+# TMP folder
+TMP/
